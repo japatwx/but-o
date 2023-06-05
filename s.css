@@ -1,3 +1,5 @@
+body {
+
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
 *{
     margin: 0;
@@ -114,4 +116,5 @@ a span:nth-child(4){
     50%,100%{
         bottom: 100%;
     }
+}
 }
